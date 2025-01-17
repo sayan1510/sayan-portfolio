@@ -11,7 +11,7 @@ function App() {
             className="profile-pic mx-auto rounded-full w-32 h-32 border-4 border-white transition-transform duration-500 hover:scale-105"
           />
           <h1 className="text-3xl font-bold mt-4">Sayan Saha</h1>
-          <p className="text-lg">Front-End Developer</p>
+          <p className="text-lg">Software Developer</p>
         </div>
       </header>
 
@@ -111,6 +111,7 @@ function App() {
             <a
               href="https://github.com/sayan1510/training-project-ui-vue"
               className="text-blue-600 hover:underline"
+              target="_blank"
             >
               Frontend Code
             </a>{" "}
@@ -118,6 +119,7 @@ function App() {
             <a
               href="https://github.com/sayan1510/training-project-backend"
               className="text-blue-600 hover:underline"
+              target="_blank"
             >
               Backend Code
             </a>
@@ -137,6 +139,7 @@ function App() {
             <a
               href="https://github.com/sayan1510/um-react"
               className="text-blue-600 hover:underline"
+              target="_blank"
             >
               Project Code
             </a>
@@ -155,6 +158,7 @@ function App() {
             <a
               href="mailto:sayansaha1510@gmail.com"
               className="text-blue-600 hover:underline"
+              target="_blank"
             >
               sayansaha1510@gmail.com
             </a>
@@ -164,6 +168,7 @@ function App() {
             <a
               href="https://www.linkedin.com/in/sayan-saha-b620361ab/"
               className="text-blue-600 hover:underline"
+              target="_blank"
             >
               LinkedIn
             </a>
@@ -172,6 +177,7 @@ function App() {
             <a
               href="https://github.com/sayan1510"
               className="text-blue-600 hover:underline"
+              target="_blank"
             >
               GitHub
             </a>
